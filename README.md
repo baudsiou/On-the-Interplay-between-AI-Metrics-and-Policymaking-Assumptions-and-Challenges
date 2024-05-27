@@ -4,6 +4,7 @@ The following include information about the paper "On the Interplay between AI M
 
 
 1. Data Description
+
 **NAIS_text.zip**: Contains the corpus of 43 National Artificial Intelligence Strategies (NAIS) documents in .txt format.
 **NAIS_metadata.xlsx**: Contains data about the NAIS, including:
 
@@ -18,5 +19,6 @@ The following include information about the paper "On the Interplay between AI M
        _Authorship:_ The responsible governmental body authored the NAIS
 
 
-3. Code Description
+ 2. Code Description
+
 **"NAIS_LDA.ipynb"**: The Jupyter Notebook file outlined all the sequential steps taken to conduct Latent Dirichlet Allocation (LDA) and obtain the NAIS topics.
