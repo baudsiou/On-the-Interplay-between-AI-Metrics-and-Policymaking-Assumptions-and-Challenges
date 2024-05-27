@@ -8,9 +8,13 @@ The following include information about the paper "On the Interplay between AI M
 **NAIS_metadata.xlsx:** Contains data about the NAIS, including:
 
  _Country of origin:_ The country associated with the NAIS
+ 
  _Title:_ The document title of the NAIS
+ 
  _Time span:_ The issuance and expiration dates of the NAIS
+ 
  _Source Link:_ The link corresponding to the NAIS document
+ 
  _Authorship:_ The responsible governmental body authored the NAIS
 
 
