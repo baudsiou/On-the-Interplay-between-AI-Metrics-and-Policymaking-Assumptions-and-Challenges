@@ -7,7 +7,7 @@ The following include information about the paper "On the Interplay between AI M
 **NAIS_text.zip:** Contains the corpus of 43 National Artificial Intelligence Strategies (NAIS) documents in .txt format.
 **NAIS_metadata.xlsx:** Contains data about the NAIS, including:
 
- _Country of origin:_ The country associated with the NAIS
+     _Country of origin:_ The country associated with the NAIS
  
  _Title:_ The document title of the NAIS
  
