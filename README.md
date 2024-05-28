@@ -21,4 +21,4 @@ The following include information about the paper "On the Interplay between AI M
 
  2. Code Description
 
-**"NAIS_LDA.ipynb"**: The Jupyter Notebook file outlined all the sequential steps taken to conduct Latent Dirichlet Allocation (LDA) and obtain the NAIS topics.
+**NAIS_LDA.ipynb**: The Jupyter Notebook file outlined all the sequential steps taken to conduct Latent Dirichlet Allocation (LDA) and obtain the NAIS topics.
