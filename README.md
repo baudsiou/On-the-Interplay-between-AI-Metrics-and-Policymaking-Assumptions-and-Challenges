@@ -1,11 +1,11 @@
 # AI Metrics and Policymaking: Assumptions and Challenges in the Shaping of AI
 
 
-The following include information about the paper "On the Interplay between AI Metrics and Policymaking: Assumptions and Challenges".
+The following include information about the paper "AI Metrics and Policymaking: Assumptions and Challenges in the Shaping of AI".
 
 **Abstract**
 
-This paper explores the interplay between AI metrics and policymaking by examining the conceptual and methodological frameworks of global AI metrics and their alignment with National Artificial Intelligence Strategies (NAIS). Through topic modeling and qualitative content analysis, key thematic areas in NAIS are identified. The findings reveal a significant gap between the broad topics covered in NAIS and the narrow focus of global AI metrics. This highlights the need to recalibrate AI evaluation frameworks to include social and ethical considerations, aligning AI advancements with the United Nations Sustainable Development Goals (SDGs) for an inclusive, ethical, and sustainable future. 
+This paper explores the interplay between AI metrics and policymaking by examining the conceptual and methodological frameworks of global AI metrics and their alignment with National Artificial Intelligence Strategies (NAIS). Through topic modeling and qualitative content analysis, key thematic areas in NAIS are identified. The findings suggest a significant gap between the broad topics covered in NAIS and the narrow focus of global AI metrics. This highlights the need to recalibrate AI evaluation frameworks to include social and ethical considerations, aligning AI advancements with the United Nations Sustainable Development Goals (SDGs) for an inclusive, ethical, and sustainable future. 
 
 
 1. Data Description
