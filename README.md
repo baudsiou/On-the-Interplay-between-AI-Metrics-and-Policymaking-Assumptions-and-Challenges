@@ -1,4 +1,5 @@
-# On-the-Interplay-between-AI-Metrics-and-Policymaking-Assumptions-and-Challenges
+# AI Metrics and Policymaking: Assumptions and Challenges in the Shaping of AI
+
 
 The following include information about the paper "On the Interplay between AI Metrics and Policymaking: Assumptions and Challenges".
 
